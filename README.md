@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PremTheAnalyst
+- 👋 Hi, I’m Prem Swaroop
 - 👀 I’m interested in Data Science roles
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Natural language processing
 - 💞️ I’m looking to collaborate on some good projects
 - 📫 How to reach me www.linkedin.com/in/prem-swaroop20
 
